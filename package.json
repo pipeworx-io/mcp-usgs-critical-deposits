@@ -1,0 +1,32 @@
+{
+  "name": "@pipeworx/mcp-usgs-critical-deposits",
+  "version": "0.1.0",
+  "description": "USGS Critical Mineral Deposits of the United States — fleet #2823.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "bin": {
+    "mcp-usgs-critical-deposits": "bin/cli.js"
+  },
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "usgs-critical-deposits"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipeworx-io/mcp-usgs-critical-deposits.git"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "tsx": "^4.19.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-0ea59def05b554ef39405b2dbdac906bd511757bfc3e3c720903f7e6725fd124",
+    "sourceCommit": "0ce6905893fe8da0d285be2f05754a4200d67371"
+  }
+}
