@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/usgs-critical-deposits",
   "title": "Usgs Critical Deposits",
   "description": "USGS Critical Mineral Deposits of the United States — fleet #2823.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/usgs-critical-deposits",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-usgs-critical-deposits",
