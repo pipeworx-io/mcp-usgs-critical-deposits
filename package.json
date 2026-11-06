@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-usgs-critical-deposits",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "USGS Critical Mineral Deposits of the United States — fleet #2823.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "usgs-critical-deposits",
     "gatewaySlug": "usgs-critical-deposits",
-    "sourceHash": "v1-02949e157cce71888fd8690121eb453fb4429cd5dffb2f5581692698a1e3ed9c",
-    "sourceCommit": "98853f34516646cb7c4c1460f09249b262c0269e"
+    "sourceHash": "v1-36ea32580c933a54e7c4651d90bfcff23e2029f4d8c90617d1082f098338a05a",
+    "sourceCommit": "ca52e7ed1e1ccad897c2da1b0fa105edc0bc3b2e"
   }
 }
